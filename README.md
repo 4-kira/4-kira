@@ -4,7 +4,7 @@
   <img  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
 <a href="https://4-kira.github.io/">
-  <img  width="26px" src="https://cdn.simpleicons.org/bloglovin" />
+  <img  width="26px" src="https://cdn.simpleicons.org/bloglovin/F05032" />
 </a>
 <a href="https://open.kakao.com/o/sahIdAlh">
   <img  width="26px" src="https://cdn.simpleicons.org/kakaotalk" />
@@ -25,7 +25,9 @@
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000?&style=flat-square&logo=Next.js&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-00599C?&style=flat-square&logo=C&logoColor=white"/>
+</p>
 
+<p>
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=Git&logoColor=white"/>
 <img alt="Claude" src ="https://img.shields.io/badge/Claude-D97757?&style=flat-square&logo=Claude&logoColor=white"/>
 <img alt="GitKraken" src ="https://img.shields.io/badge/GitKraken-179287?&style=flat-square&logo=GitKraken&logoColor=white"/>
