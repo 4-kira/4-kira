@@ -36,9 +36,9 @@
 
 ### Latest blog posts
 
+- [Claude Code Docs 해체 분석 (3): 세션 관리](https://4-kira.github.io/posts/claude-3/)
 - [Claude Code 병렬 작업을 위한 tmux](https://4-kira.github.io/posts/tmux/)
 - [Claude Code Docs 해체 분석 (2): 권한 모드](https://4-kira.github.io/posts/claude-2/)
-- [Claude Code Docs 해체 분석 (1): 지침 및 메모리 저장](https://4-kira.github.io/posts/claude-1/)
 
 ###
 
